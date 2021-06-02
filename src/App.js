@@ -7,7 +7,7 @@ import DeckGL from '@deck.gl/react';
 import { PolygonLayer } from '@deck.gl/layers';
 import { TripsLayer } from '@deck.gl/geo-layers';
 
-const MAPBOX_ACCESS_TOKEN = 'sk.eyJ1IjoibGV0aGFsMjMzIiwiYSI6ImNrbzU3Y3JxMDE5aGUyb3M1dnY3c20zajIifQ.guC2wc_8Sx7ZuegWEshs5g';
+const MAPBOX_ACCESS_TOKEN = '';
 
 // Source data CSV
 const DATA_URL = {
